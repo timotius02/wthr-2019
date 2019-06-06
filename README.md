@@ -2,7 +2,7 @@
 
 An Animation Driven Weather App built using React Native 
 
-This is the updated version. The original can be found [here](https://github.com/timotius02/wthr).
+This is the updated version based on Expo. The original can be found [here](https://github.com/timotius02/wthr).
 
 ![Screenshot](assets/screenshot.png?raw=true)
 
